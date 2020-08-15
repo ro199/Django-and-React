@@ -1,0 +1,27 @@
+export const GET_ASSETS = "GET_ASSETS";
+export const DELETE_ASSET = "DELETE_ASSET";
+export const ADD_ASSET = "ADD_ASSET";
+export const GET_ERRORS = "GET_ERRORS";
+export const CREATE_MESSAGE = "CREATE_MESSAGE";
+export const USER_LOADING = "USER_LOADING";
+export const USER_LOADED = "USER_LOADED";
+export const AUTH_ERROR = "AUTH_ERROR";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const LOGOUT_SUCCESS = "LOGOUT_SUCCESS";
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const REGISTER_FAIL = "REGISTER_FAIL";
+export const ADD_PROFILE = "ADD_PROFILE";
+export const GET_BRANDS = "GET_BRANDS";
+export const ADD_BRANDS = "ADD_BRANDS";
+export const DELETE_BRANDS = "DELETE_BRANDS";
+export const GET_TYPE = "GET_TYPE";
+export const ADD_TYPE = "ADD_TYPE";
+export const DELETE_TYPE = "DELETE_TYPE";
+export const GET_CLASS = "GET_CLASS";
+export const DELETE_CLASS = "DELETE_CLASS";
+export const ADD_CLASS = "ADD_CLASS";
+export const ADD_RESOURCE = "ADD_RESOURCE";
+export const DELETE_RESOURCE = "DELETE_RESOURCE";
+export const GET_RESOURCE = "GET_RESOURCE";
+
